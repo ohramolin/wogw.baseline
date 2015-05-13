@@ -1,0 +1,9 @@
+/src/packages
+/src/wogw.baseline/*.user
+/src/wogw.baseline/App_Data/Logs
+/src/wogw.baseline/App_Data/NuGetBackup
+/src/wogw.baseline/App_Data/packages
+/src/wogw.baseline/App_Data/preview
+/src/wogw.baseline/App_Data/TEMP
+/src/wogw.baseline/bin
+/src/wogw.baseline/obj
