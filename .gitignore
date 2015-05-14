@@ -7,3 +7,8 @@
 /src/wogw.baseline/App_Data/TEMP
 /src/wogw.baseline/bin
 /src/wogw.baseline/obj
+/src/wogw.baseline/umbraco/Config/Lang/*.backup
+/src/wogw.baseline/Config/*.backup
+/src/wogw.baseline/umbraco/Config/Create/*.backup
+/src/wogw.baseline/*.backup
+/src/wogw.baseline.v12.suo
