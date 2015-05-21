@@ -15,7 +15,7 @@
     <RootNamespace>wogw.baseline</RootNamespace>
     <AssemblyName>wogw.baseline</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
-    <UseIISExpress>true</UseIISExpress>
+    <UseIISExpress>false</UseIISExpress>
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
@@ -4583,7 +4583,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>44014</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:44014/</IISUrl>
+          <IISUrl>http://wogw.baseline.dev</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
